@@ -29,6 +29,10 @@ ul {
     padding-left: 2px;
 }
 
+img {
+box-shadow: 1px 1px 1px 1px black;
+}
+
 .container {
   position: relative;
   min-height: 70vh;
@@ -127,7 +131,7 @@ ul {
 .radioCustomLabel {
     position: relative;
     width: 100%;
-    margin: 0;
+    margin: 1px 0px 5px -8px;
     /* where the li margins and padding are */
     padding: .95rem .05rem .25rem 3rem;
     font-size: 14px;

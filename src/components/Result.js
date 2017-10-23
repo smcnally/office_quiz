@@ -26,8 +26,9 @@ function Result(props) {
           {props.resultBioStrains}
         </p>
           <ul>
-          <li>
+          <li><strong>
           <a href={quizQuestions[0].relatedURL0} target="_blank">{quizQuestions[0].relatedURLLabel0}</a>
+          </strong>
           </li>
           <li>
           <a href={quizQuestions[0].relatedURL1} target="_blank">{quizQuestions[0].relatedURLLabel1}</a>
