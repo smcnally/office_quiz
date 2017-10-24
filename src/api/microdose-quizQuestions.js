@@ -3,14 +3,14 @@ var quizQuestions = [
    // Game-wide values
   intro: "Microdose Magic" , 
   scoreLabel: "Microdosing Know-How result" , 
+  relatedURL0: "http://www.cannabisfeminist.com/blog/2017/6/27/the-bake-sale-hosted-by-matt-nordgren" ,   
+  relatedURLLabel0: "Join Us & the Community at the next Bake Sale" ,
   relatedURL1: "http://www.mondomeds.com/product.html" , 
   relatedURLLabel1: "All-Natural, fast-acting powder from Mondo gives you control of dosage and flavor" ,
+  relatedURL2: "" , 
+  relatedURLLabel2: "" ,   
   relatedURL3: "http://medicinebox.green/dosage/" , 
   relatedURLLabel3: "Mindful Consumption from MedicineBox" ,  
-  relatedURL2: "https://extroverting.com/2017/06/04/computer-data-science-opportunities-in-california/" , 
-  relatedURLLabel0: "Join Us & the Community at the next Bake Sale" ,
-  relatedURL0: "http://www.cannabisfeminist.com/blog/2017/6/27/the-bake-sale-hosted-by-matt-nordgren" , 
-  relatedURLLabel3: "Marketing, Retail, & Business" , 
     // Group 1
       question: "What's the recommended amount of THC for a Microdose?",
       answers: [
