@@ -1,0 +1,56 @@
+{   "Low": {
+ 	 "bio": "Energy inefficiencies could still be costing you $10,000 per year." , 
+     "strains": "That's enough to throw a Karaoke party with crab legs & Union Craft for 100 employees." , 
+     "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/09/BringBeer.gif?resize=300,250" , 
+     "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/staging/1-md5-362ad11f47625cbf4068f46d3b3fe8f0.jpg" , 
+     "sponsorURL": "" , 
+     "sponsorTagline": "Make the Switch to #1"
+     } ,
+	"Average": {
+    "bio": "Energy inefficiencies could be costing you $20,000 per year." , 
+     "strains": "You could instead use that money to have Jule Bowen emceeing your next corporate function" , 
+     "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/09/JulieBowen.gif?resize=300,250" , 
+     "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/staging/1-md5-362ad11f47625cbf4068f46d3b3fe8f0.jpg" , 
+     "sponsorURL": "" , 
+     "sponsorTagline": "Make the Switch to #1"
+    } ,
+   "High": {
+     "bio": "Energy inefficiencies could be costing you $30,000 per year." , 
+     "strains": "That enough to buy your softball team new jerseys and private batting lessons with Cal Ripken Jr." , 
+      "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/09/090515_ripken_homer.gif?resize=300,250" , 
+     "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/1-md5-c6c9eb3ea64eceed75df5b4088825709.jpg" , 
+     "sponsorURL": "" , 
+     "sponsorTagline": "Customized Energy Strategy and Exclusive Access to Innovative Energy Management Products"
+     } ,
+   "Deteriorated": {
+     "bio": "Nope. Patients performed better"
+     } ,
+   "Improved": {
+     "bio": "Yes - Patients got faster and more accurate. Read what Harvard found out about other improvements to brain function, sleep, and overall health."
+     } ,
+   "Same": {
+     "bio": "Read what Harvard found out about other improvements to brain function, sleep, and overall health."
+   } , 
+	"Sativa": {	
+    "bio": "Sativa strains produce more of a euphoric high, uplifting mood and therapeutically relieving stress." ,
+    "strains": "Sour Diesel, Maui Waui, Amnesia Haze" , 
+     "sponsorImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/07/Levo-Oil.jpg?resize=300,250" , 
+     "sponsorURL": "https://www.levooil.com/" , 
+     "sponsorTagline": "Levo: Oil Infusion. Reimagined."
+    } ,
+    "Indica": {
+    "bio": "Indica strains relax muscles and work as general analgesics. They also help with sleep." ,
+    "strains": "Northern Lights, Kush, Critical Mass" , 
+     "sponsorImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/07/hmbldt-sleep-Large.jpeg?resize=300,250" , 
+     "sponsorURL": "http://hmbldt.com/pen-sleep/" , 
+     "sponsorTagline": "The Science of Sleep"
+    } ,
+    "Hybrid": {
+    "bio": "Hybrid strains are cultivated for various properties. Some Hybrids skew toward Sativa's euphoric, uplifting qualities; others skew more toward Indica's relaxing, pain-relieving qualities." ,
+    "strains": "Blue Dream, Pineapple Express, Skywalker OG" 
+     , 
+     "sponsorImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/07/hmbldt-4pack-1-sm.jpg" , 
+     "sponsorURL": "http://hmbldt.com/formulas/" , 
+     "sponsorTagline": "hmbldt formulas to suit your occasion"
+    }
+}
