@@ -27,7 +27,7 @@ function Result(props) {
         </p>
           <ul>
           <li><strong>
-          <a href={quizQuestions[0].relatedURL0} target="_blank">{quizQuestions[0].relatedURLLabel0}</a>
+          <a href={quizQuestions[0].relatedURL0} target="_self">{quizQuestions[0].relatedURLLabel0}</a>
           </strong>
           </li>
           <li>
