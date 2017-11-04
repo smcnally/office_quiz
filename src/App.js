@@ -36,6 +36,10 @@ class App extends Component {
         Quotastic: 0,
         Low: 0,
         Average: 0,
+        NE: 0,
+        South: 0,
+        Midwest: 0,
+        West: 0,
         Quotifying: 0
       },
       result: '',

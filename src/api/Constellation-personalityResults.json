@@ -47,9 +47,40 @@
     } ,
     "Hybrid": {
     "bio": "Hybrid strains are cultivated for various properties. Some Hybrids skew toward Sativa's euphoric, uplifting qualities; others skew more toward Indica's relaxing, pain-relieving qualities." ,
-    "strains": "Blue Dream, Pineapple Express, Skywalker OG" 
-     , 
+    "strains": "Blue Dream, Pineapple Express, Skywalker OG" , 
      "sponsorImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/07/hmbldt-4pack-1-sm.jpg" , 
+     "sponsorURL": "http://hmbldt.com/formulas/" , 
+     "sponsorTagline": "hmbldt formulas to suit your occasion"
+    } ,
+    "NE": {
+    "bio": "It gets cold in the Northeast during winter." ,
+    "strains": "Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont, New Jersey, New York, and Pennsylvania" , 
+    "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/10/Ted-Pouring-4-Beers.gif?resize=300,250" ,
+     "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/staging/1-md5-362ad11f47625cbf4068f46d3b3fe8f0.jpg" , 
+     "sponsorURL": "http://hmbldt.com/formulas/" , 
+     "sponsorTagline": "hmbldt formulas to suit your occasion"
+    } ,
+    "South": {
+    "bio": "The South" ,
+    "strains": "Delaware, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, District of Columbia, and West Virginia, Alabama, Kentucky, Mississippi, and Tennessee, Arkansas, Louisiana, Oklahoma, and Texas" , 
+    "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/10/dog-on-ac.gif?resize=300,250" ,
+     "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/staging/1-md5-362ad11f47625cbf4068f46d3b3fe8f0.jpg" , 
+     "sponsorURL": "http://hmbldt.com/formulas/" , 
+     "sponsorTagline": "hmbldt formulas to suit your occasion"
+    } ,
+    "West": {
+    "bio": "The West" ,
+    "strains": "Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, and Wyoming, Alaska, California, Hawaii, Oregon, and Washington" ,
+    "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/09/090515_ripken_homer.gif?resize=300,250" ,  
+     "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/staging/1-md5-362ad11f47625cbf4068f46d3b3fe8f0.jpg" , 
+     "sponsorURL": "http://hmbldt.com/formulas/" , 
+     "sponsorTagline": "hmbldt formulas to suit your occasion"
+    } ,
+    "Midwest": {
+    "bio": "The Midwest is nice." ,
+    "strains": "Illinois, Indiana, Michigan, Ohio, Wisconsin, Iowa, Kansas, Minnesota, Missouri, Nebraska, North Dakota, South Dakota)" , 
+     "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/10/barrel-roll-300x167.gif?resize=300,250" ,
+     "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/staging/1-md5-362ad11f47625cbf4068f46d3b3fe8f0.jpg" , 
      "sponsorURL": "http://hmbldt.com/formulas/" , 
      "sponsorTagline": "hmbldt formulas to suit your occasion"
     }
