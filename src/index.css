@@ -10,7 +10,9 @@ body {
   margin: 0;
   padding: 0;
   background: #fff;
-  font-family: sans-serif;
+  /* font-family: sans-serif; added Benton-sans  and color for Constellation */
+  color: #666666;
+  font-family: "Benton-Sans", sans-serif;
 }
 
 h4 {
@@ -62,6 +64,9 @@ box-shadow: 1px 1px 1px 1px black;
 }
 .result-bio {
   justify-content: left;
+  /*   color: #000000; added Benton-sans  and color for Constellation */
+  color: #666666;
+  font-family: "Benton-Sans", sans-serif;
   font-size: 13px;
   padding: .25rem .25rem;
   text-align: left;
@@ -95,7 +100,9 @@ box-shadow: 1px 1px 1px 1px black;
 .question {
   margin: 0;
   background: #e0e2e5;
-  color: #000000;
+  /*   color: #000000; added Benton-sans  and color for Constellation */
+  color: #666666;
+  font-family: "Benton-Sans", sans-serif;
   padding: 0.5rem .75rem .5rem .75rem;
 
 }
@@ -103,6 +110,8 @@ box-shadow: 1px 1px 1px 1px black;
 /* AnswerOption Component */
 .answerOption {
   border-top: 1px solid #fff;
+  /* added white BG color */
+  background-color: #fff;
 }
 .answerOption:first-child {
   border-top: none;
@@ -134,6 +143,9 @@ box-shadow: 1px 1px 1px 1px black;
     margin: 1px 0px 5px -8px;
     /* where the li margins and padding are */
     padding: .95rem .05rem .25rem 3rem;
+    /* added Benton-sans and color #666666 for Constellation */
+    color: #666666;
+    font-family: "Benton-Sans", sans-serif;    
     font-size: 14px;
     line-height: 1.02;
 }

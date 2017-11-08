@@ -21,12 +21,22 @@
   padding-top: 1px;
   padding-bottom: 1px;
   padding: 0;
-  color: #000000;
+  /* color: #000000; */
   text-align: center;
+  /* added Benton-sans, color #666666, and size 16 for Constellation */
+  color: #666666;
+  font-family: "Benton-Sans", sans-serif;
+  font-size: 16px;
 }
-
+.App-header h4 {
+  color: #666666;
+  font-family: "Benton-Sans", sans-serif;
+}	
 .App-intro {
   font-size: medium;
+  /* font-family: sans-serif; added Benton-sans  and color for Constellation */
+  color: #666666;
+  font-family: "Benton-Sans", sans-serif;
 }
 
 /*@keyframes spin {

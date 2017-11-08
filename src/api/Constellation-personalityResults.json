@@ -22,66 +22,36 @@
      "sponsorURL": "" , 
      "sponsorTagline": "Customized Energy Strategy and Exclusive Access to Innovative Energy Management Products"
      } ,
-   "Deteriorated": {
-     "bio": "Nope. Patients performed better"
-     } ,
-   "Improved": {
-     "bio": "Yes - Patients got faster and more accurate. Read what Harvard found out about other improvements to brain function, sleep, and overall health."
-     } ,
-   "Same": {
-     "bio": "Read what Harvard found out about other improvements to brain function, sleep, and overall health."
-   } , 
-	"Sativa": {	
-    "bio": "Sativa strains produce more of a euphoric high, uplifting mood and therapeutically relieving stress." ,
-    "strains": "Sour Diesel, Maui Waui, Amnesia Haze" , 
-     "sponsorImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/07/Levo-Oil.jpg?resize=300,250" , 
-     "sponsorURL": "https://www.levooil.com/" , 
-     "sponsorTagline": "Levo: Oil Infusion. Reimagined."
-    } ,
-    "Indica": {
-    "bio": "Indica strains relax muscles and work as general analgesics. They also help with sleep." ,
-    "strains": "Northern Lights, Kush, Critical Mass" , 
-     "sponsorImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/07/hmbldt-sleep-Large.jpeg?resize=300,250" , 
-     "sponsorURL": "http://hmbldt.com/pen-sleep/" , 
-     "sponsorTagline": "The Science of Sleep"
-    } ,
-    "Hybrid": {
-    "bio": "Hybrid strains are cultivated for various properties. Some Hybrids skew toward Sativa's euphoric, uplifting qualities; others skew more toward Indica's relaxing, pain-relieving qualities." ,
-    "strains": "Blue Dream, Pineapple Express, Skywalker OG" , 
-     "sponsorImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/07/hmbldt-4pack-1-sm.jpg" , 
-     "sponsorURL": "http://hmbldt.com/formulas/" , 
-     "sponsorTagline": "hmbldt formulas to suit your occasion"
-    } ,
     "NE": {
-    "bio": "It gets cold in the Northeast during winter." ,
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum egestas tellus vitae feugiat. Suspendisse vitae ex lectus. Duis luctus ut tellus sit amet gravida. Morbi sed venenatis enim, scelerisque pellentesque dui. In quis lacinia orci. Vestibulum hendrerit massa lacus, eget finibus velit scelerisque id. Morbi condimentum nulla lacus." ,
     "strains": "Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont, New Jersey, New York, and Pennsylvania" , 
     "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/10/Ted-Pouring-4-Beers.gif?resize=300,250" ,
      "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/staging/1-md5-362ad11f47625cbf4068f46d3b3fe8f0.jpg" , 
      "sponsorURL": "http://hmbldt.com/formulas/" , 
-     "sponsorTagline": "hmbldt formulas to suit your occasion"
+     "sponsorTagline": "Customized Energy Strategy and Exclusive Access to Innovative Energy Management Products"
     } ,
     "South": {
-    "bio": "The South" ,
+    "bio": "Cras cursus nibh vitae vehicula eleifend. Curabitur sed massa non risus blandit rutrum. Nunc in lobortis tellus. Quisque porta nunc odio, quis porta purus feugiat at. Vivamus quis magna ut urna vulputate varius ac vel erat. Phasellus ac urna quis felis aliquam mattis ut eleifend sapien. Ut odio turpis, pulvinar vel ligula vel, fringilla facilisis dolor. Praesent non diam blandit, sodales velit at, ullamcorper risus." ,
     "strains": "Delaware, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, District of Columbia, and West Virginia, Alabama, Kentucky, Mississippi, and Tennessee, Arkansas, Louisiana, Oklahoma, and Texas" , 
     "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/10/dog-on-ac.gif?resize=300,250" ,
      "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/staging/1-md5-362ad11f47625cbf4068f46d3b3fe8f0.jpg" , 
      "sponsorURL": "http://hmbldt.com/formulas/" , 
-     "sponsorTagline": "hmbldt formulas to suit your occasion"
+     "sponsorTagline": "Make the Switch to #1"
     } ,
     "West": {
-    "bio": "The West" ,
+    "bio": "Donec vitae felis dapibus, malesuada magna nec, varius justo. Vivamus vitae aliquet mi. Praesent placerat nisi elit. Ut et diam malesuada, semper magna ut, rutrum nisi. Aenean fringilla, est lobortis consectetur gravida, sem velit rhoncus sem, sit amet egestas neque mi quis justo. Aenean lacinia erat posuere vulputate efficitur. Nullam finibus nisl tortor, quis tempor libero sodales id." ,
     "strains": "Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, and Wyoming, Alaska, California, Hawaii, Oregon, and Washington" ,
     "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/09/090515_ripken_homer.gif?resize=300,250" ,  
      "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/staging/1-md5-362ad11f47625cbf4068f46d3b3fe8f0.jpg" , 
      "sponsorURL": "http://hmbldt.com/formulas/" , 
-     "sponsorTagline": "hmbldt formulas to suit your occasion"
+     "sponsorTagline": "Make the Switch to #1"
     } ,
     "Midwest": {
-    "bio": "The Midwest is nice." ,
+    "bio": "Cras cursus nibh vitae vehicula eleifend. Curabitur sed massa non risus blandit rutrum. Nunc in lobortis tellus. Quisque porta nunc odio, quis porta purus feugiat at. Vivamus quis magna ut urna vulputate varius ac vel erat. Phasellus ac urna quis felis aliquam mattis ut eleifend sapien. Ut odio turpis, pulvinar vel ligula vel, fringilla facilisis dolor. Praesent non diam blandit, sodales velit at, ullamcorper risus." ,
     "strains": "Illinois, Indiana, Michigan, Ohio, Wisconsin, Iowa, Kansas, Minnesota, Missouri, Nebraska, North Dakota, South Dakota)" , 
      "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/10/barrel-roll-300x167.gif?resize=300,250" ,
-     "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/staging/1-md5-362ad11f47625cbf4068f46d3b3fe8f0.jpg" , 
-     "sponsorURL": "http://hmbldt.com/formulas/" , 
-     "sponsorTagline": "hmbldt formulas to suit your occasion"
+          "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/1-md5-c6c9eb3ea64eceed75df5b4088825709.jpg" , 
+     "sponsorURL": "" , 
+     "sponsorTagline": "Customized Energy Strategy and Exclusive Access to Innovative Energy Management Products"
     }
 }
