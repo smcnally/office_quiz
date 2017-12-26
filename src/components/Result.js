@@ -16,10 +16,10 @@ function Result(props) {
     >
       <div className="result-container">
         <p className="result-answer">
-          Your <strong>{quizQuestions[0].scoreLabel}</strong> is <strong>{props.quizResult}</strong>!
+          {/* Your <strong>{quizQuestions[0].scoreLabel}</strong> is <strong>{props.quizResult}</strong>! */} 
         </p>
          <p />
-         <img src={props.resultBioSuccessImg} alt="Extroverting Success" />
+         {/* <img src={props.resultBioSuccessImg} alt="Extroverting Success" /> */}
         <p className="result-bio">
           {props.resultBio}
          <p /><p className="result-bio">

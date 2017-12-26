@@ -53,5 +53,13 @@
           "sponsorImg": "https://d37p6u34ymiu6v.cloudfront.net/1-md5-c6c9eb3ea64eceed75df5b4088825709.jpg" , 
      "sponsorURL": "" , 
      "sponsorTagline": "Customized Energy Strategy and Exclusive Access to Innovative Energy Management Products"
-    }
+    },
+    "Interested": {
+    "bio": "Thank you for helping us understand your power purchasing process.",
+    "strains": "Learn more about which power solutions can make your power purchasing more manageable. [Take me there]" , 
+     "successImg": "" ,
+          "sponsorImg": "" , 
+     "sponsorURL": "" , 
+     "sponsorTagline": ""
+    }  
 }

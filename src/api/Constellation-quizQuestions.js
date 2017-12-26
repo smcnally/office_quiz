@@ -1,7 +1,7 @@
 var quizQuestions = [
  	{
     // Group 1
-   	  intro: "6MM commercial and industrial facilities in the US each spends an average of $66k/year on Energy." , 
+   	  intro: "6MM commercial facilities in the US each spends an average of $66k/year on Energy." , 
    	  scoreLabel: "Energy Spend" , 
    	  relatedURL0: "https://meanbusiness.com/shepherd/ws/constellation/Constellation2" , 
    	  relatedURLLabel0: "Get Tips Tailored to You ..." ,  

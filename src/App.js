@@ -40,6 +40,7 @@ class App extends Component {
         South: 0,
         Midwest: 0,
         West: 0,
+        Interested: 0,
         Quotifying: 0
       },
       result: '',
