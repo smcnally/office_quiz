@@ -4,7 +4,10 @@ import React from 'react';
 function Question(props) {
 
   return (
+    <div>
     <h4 className="question">{props.content}</h4>
+    {/* <img src={props.questionImageSrc} alt="" /> */}
+    </div>
   );
 
 }

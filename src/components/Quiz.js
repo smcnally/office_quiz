@@ -13,6 +13,7 @@ function Quiz(props) {
         key={key.content}
         answerContent={key.content}
         answerType={key.type}
+        questionsImageSrc={key.qImageSrc}
         answerImageSrc={key.imageSrc}
         answer={props.answer}
         questionId={props.questionId}
@@ -37,6 +38,7 @@ function Quiz(props) {
           total={props.questionTotal}
         />
         <Question content={props.question} />
+        {/* <img src={props.qImageSrc} alt="GamePath Question image" /> */}
         <ul className="answerOptions">
           {props.answerOptions.map(renderAnswerOptions)}
         </ul>
@@ -47,6 +49,7 @@ function Quiz(props) {
 
 Quiz.propTypes = {
   answer: React.PropTypes.string.isRequired,
+  qImageSrc: React.PropTypes.string,
   imageSrc: React.PropTypes.string,
   answerOptions: React.PropTypes.array.isRequired,
   question: React.PropTypes.string.isRequired,

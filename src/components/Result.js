@@ -17,14 +17,20 @@ function Result(props) {
       <div className="result-container">
         <p className="result-answer">
           {/* Your <strong>{quizQuestions[0].scoreLabel}</strong> is <strong>{props.quizResult}</strong>! */} 
-        </p>
+          	{/* 171227 - Constellation */}
+          	<strong>{quizQuestions[0].scoreLabel}</strong>
+          	</p>
+          	<div className="result-answer" dangerouslySetInnerHTML={{__html: props.resultBioStrains}} />
+          	{/* 171227 - Constellation */}
          <p />
-         {/* <img src={props.resultBioSuccessImg} alt="Extroverting Success" /> */}
+         {/* <img src={props.resultBioSuccessImg} alt="GamePath Success" /> */}
+         {/*
         <p className="result-bio">
           {props.resultBio}
          <p /><p className="result-bio">
           {props.resultBioStrains}
         </p>
+        */}
           <ul>
           <li><strong>
           <a href={quizQuestions[0].relatedURL0} target="_self">{quizQuestions[0].relatedURLLabel0}</a>
@@ -37,14 +43,7 @@ function Result(props) {
           <a href={quizQuestions[0].relatedURL2} target="_blank">{quizQuestions[0].relatedURLLabel2}</a>
           </li>
           </ul>
-        </p>
-        <p className="result-sponsor">[Sponsor]</p>
-        <a href={props.resultBioSponsorURL} target="_blank">
-       <img src={props.resultBioSponsorImg} alt="sponsor" />
-       </a>
-       <p className="result-sponsor">
-       {props.resultBioSponsorTagline}
-       </p>
+        {/* </p> */}
         </div>
     </ReactCSSTransitionGroup>
   );

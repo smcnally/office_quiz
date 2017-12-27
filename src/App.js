@@ -41,6 +41,9 @@ class App extends Component {
         Midwest: 0,
         West: 0,
         Interested: 0,
+        Interested1: 0,
+        Interested2: 0,
+        Interested3: 0,
         Quotifying: 0
       },
       result: '',
@@ -79,7 +82,6 @@ class App extends Component {
 
   handleAnswerSelected(event) {
     this.setUserAnswer(event.currentTarget.value);
-
     if (this.state.questionId < quizQuestions.length) {
         setTimeout(() => this.setNextQuestion(), 300);
     } else {
@@ -145,6 +147,7 @@ class App extends Component {
         answerOptions={this.state.answerOptions}
         questionId={this.state.questionId}
         question={this.state.question}
+        questionImageSrc={this.state.question.qImageSrc}
         questionTotal={quizQuestions.length}
         onAnswerSelected={this.handleAnswerSelected}
       />

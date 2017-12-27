@@ -55,11 +55,35 @@
      "sponsorTagline": "Customized Energy Strategy and Exclusive Access to Innovative Energy Management Products"
     },
     "Interested": {
+    "bio": "",
+    "strains": "Learn more about which power solutions can make your power purchasing more manageable. <p align='right'><a href='y'>Take me there <img src='https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/12/green_right_arrow.png?h=50'></a></p>" , 
+    "successImg": "" ,
+    "sponsorImg": "" , 
+    "sponsorURL": "" , 
+    "sponsorTagline": ""
+    }, 
+    "Interested1": {
+    "bio": "",
+    "strains": "Learn more about which power solutions can make your power purchasing more manageable. <p align='right'><a href='y'>Take me there <img src='https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/12/green_right_arrow.png?h=50'></a></p>" , 
+    "successImg": "" ,
+    "sponsorImg": "" , 
+    "sponsorURL": "" , 
+    "sponsorTagline": ""
+    },
+    "Interested2": {
     "bio": "Thank you for helping us understand your power purchasing process.",
-    "strains": "Learn more about which power solutions can make your power purchasing more manageable. [Take me there]" , 
-     "successImg": "" ,
-          "sponsorImg": "" , 
-     "sponsorURL": "" , 
-     "sponsorTagline": ""
+    "strains": "Learn more about which power solutions can make your power purchasing more manageable. <p align='right'><a href='y'>Take me there <img src='https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/12/green_right_arrow.png?h=50'></a></p>" , 
+    "successImg": "" ,
+    "sponsorImg": "" , 
+    "sponsorURL": "" , 
+    "sponsorTagline": ""
+    }, 
+    "Interested3": {
+    "bio": "Thank you for helping us understand your power purchasing process.",
+    "strains": "Learn more about which power solutions can make your power purchasing more manageable. <p align='right'><a href='y'>Take me there <img src='https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/12/green_right_arrow.png?h=50'></a></p>" , 
+    "successImg": "" ,
+    "sponsorImg": "" , 
+    "sponsorURL": "" , 
+    "sponsorTagline": ""
     }  
 }
