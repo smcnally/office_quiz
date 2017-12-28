@@ -32,7 +32,7 @@ ul {
 }
 
 img {
-box-shadow: 1px 1px 1px 1px black;
+box-shadow: .5px .5px .5px .5px black;
 }
 
 .container {
@@ -43,7 +43,7 @@ box-shadow: 1px 1px 1px 1px black;
   border-radius: 3px;
   /* font-family: Roboto, sans-serif; */
   font-family: "Benton-Sans", sans-serif;
-  background: #f5f5f6;
+  background: #fff;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 6px, rgba(0, 0, 0, 0.117647) 0px 1px 4px;
   border-radius: 2px;
@@ -63,6 +63,12 @@ box-shadow: 1px 1px 1px 1px black;
   padding: .1rem .1rem;
   text-align: center;
 }
+
+.result img {
+  box-shadow: 0px 0px 0px 0px blue;
+  vertical-align: middle;
+}
+
 .result-bio {
   justify-content: left;
   /*   color: #000000; added Benton-sans  and color for Constellation */
@@ -75,6 +81,8 @@ box-shadow: 1px 1px 1px 1px black;
 .result-container {
   width: 95vw;
   padding: .25em;
+  /* color: #fff;
+  background: #41A963; */
 }
 .result-sponsor {
   font-size: 10px;
@@ -144,13 +152,16 @@ box-shadow: 1px 1px 1px 1px black;
     margin: 1px 0px 5px -8px;
     /* where the li margins and padding are */
     padding: .95rem .05rem .25rem 3rem;
-    /* added Benton-sans and color #666666 for Constellation */
+    /* added Benton-sans, color #666666, and bg #41A963 for Constellation */
     color: #666666;
     font-family: "Benton-Sans", sans-serif;    
     font-size: 14px;
     line-height: 1.02;
 }
-
+.radioCustomLabel img {
+	background-color: #41A963;
+	color: #41A963;
+}
 .radioCustomButton ~ .radioCustomLabel:before {
     position: absolute;
     top: 6px;
@@ -161,14 +172,14 @@ box-shadow: 1px 1px 1px 1px black;
     display: inline-block;
     vertical-align: middle;
     background: #fff;
-    border: 1px solid rgba(0, 0, 0, 0.098);
+    border: 1.5px solid rgba(65, 169, 99, 1);
     border-radius: 50%;
     transition: all 0.3s;
 }
 
 .radioCustomButton:checked ~ .radioCustomLabel:before {
     content: '';
-    background: #a7ffeb url(./svg/icon-check.svg) no-repeat;
+    background: #41A963 url(./svg/icon-check.svg) no-repeat;
     background-size: 22px;
     border-color: #41A963;
 }
