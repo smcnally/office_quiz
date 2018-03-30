@@ -15,16 +15,14 @@ function Result(props) {
     >
       <div className="result-container">
         <p className="result-answer">
-          Your <strong>{props.scoreLabel}</strong> is <strong>{props.quizResult}</strong>!
+          {/* Your <strong>{props.scoreLabel}</strong> is <strong>{props.quizResult}</strong>! */}
         </p>
         <p>
          <img src={props.successImg} alt="Success" />
         </p>
-        <p className="result-bio">
-          {props.bio}
+        <p className="result-bio" dangerouslySetInnerHTML={{__html: props.bio}} >
         </p>
-        <p className="result-bio">
-          {props.strains}
+        <p className="result-bio" dangerouslySetInnerHTML={{__html: props.strains}} >
         </p>
         <h4>
           <a href={props.relatedURL0} target="_blank">{props.relatedURLLabel0}</a>
@@ -38,7 +36,7 @@ function Result(props) {
         <h4>
           <a href={props.relatedURL3} target="_blank">{props.relatedURLLabel3}</a>
         </h4>
-        <p className="result-sponsor">[Sponsor]</p>
+        {/*  <p className="result-sponsor">[Sponsor]</p>
         <p className="result-sponsor">
           <a href={props.sponsorURL} target="_blank">
             <img src={props.sponsorImg} alt="sponsor" />
@@ -46,7 +44,7 @@ function Result(props) {
         </p>
         <p className="result-sponsor">
           {props.sponsorTagline}
-        </p>
+  </p> */}
       </div>
     </ReactCSSTransitionGroup>
   );

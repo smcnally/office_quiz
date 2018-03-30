@@ -1,144 +1,79 @@
 var quizQuestions = [
-  {
-   // Game-wide values
-  intro: "Products Used Within the Last month" , 
-  scoreLabel: "Preference" , 
-  relatedURL0: "https://games.gamepath.io/gamepath/qp/DOZO-chatback.html" , 
-  relatedURLLabel0: "Claim your Gift!" ,
-  relatedURL1: "" , 
-  relatedURLLabel1: "" ,  
-  relatedURL2: "" , 
-  relatedURLLabel2: "" ,
-  relatedURL3: "" , 
-  relatedURLLabel3: "" ,  
-    // Group 1
-      question: "Which type of cannabis product have you used most recently?",
-      multi: "Next »",
-      format: "coolMatrix",
-      imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/05/Insomnia-Woman.jpg?resize=300,200",
-      answers: [
-          {
-              type: "Edibles",
-              content: "Edibles This is a bunch of extra text so things wrap like so",
-              imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/05/Insomnia-Woman.jpg?resize=300,200"
-          },
-          {
-              type: "Smoking",
-              content: "Flower / Smoking",
-              imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/05/woman-anxiety-300.gif?resize=300,200"
-          },
-		  {
-              type: "Vaping",
-              content: "Vaping",
-              imageSrc: "https://i0.wp.com/extroverting.com/wp-content/uploads/sites/3/2017/06/TinaFey-Self-HighFive.gif?resize=300,200"
-          },
-          {
-              type: "Dabbing",
-              content: "Dabbing",
-              imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/04/Muscles-Back-Shoulders-Illustration.jpg?resize=300,200"
-          },
-          {
-              type: "Topicals",
-              content: "Topicals, Lotions, or Ointments",
-              imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/04/Muscles-Back-Shoulders-Illustration.jpg?resize=300,200"
-          },
-      ]
-  },
-  {
-      question: "Pick all the effects you'd like to achieve",
-      multi: "Next »",
-      format: "coolMatrix",
-      answers: [
-          {
-              type: "Sativa",
-              content: "Euphoric",
-              imageSrc: "https://twemoji.maxcdn.com/72x72/1f600.png"
-          },
-          {
-              type: "Sativa",
-              content: "Relaxed",
-              imageSrc: "https://twemoji.maxcdn.com/72x72/1f600.png"
-          },
-          {
-              type: "Sativa",
-              content: "Hungry",
-              imageSrc: "https://twemoji.maxcdn.com/72x72/1f600.png"
-          },
-          {
-              type: "Sativa",
-              content: "Creative",
-              imageSrc: "https://twemoji.maxcdn.com/72x72/1f600.png"
-          },
-          {
-              type: {"Sativa": 1, "Indica": -1},
-              content: "Energetic",
-              imageSrc: "https://twemoji.maxcdn.com/72x72/1f600.png"
-          },
-          {
-              type: "Indica",
-              content: "Focused",
-              imageSrc: "https://twemoji.maxcdn.com/72x72/1f610.png"
-          }
-      ]
-  },
-  {
-    // Group 1
-      question: "Which type of cannabis product have you used most frequently?",
-      imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/05/Insomnia-Woman.jpg?resize=300,200",
-      answers: [
-          {
-              type: "Edibles",
-              content: "Edibles"
-          },
-          {
-              type: "Smoking",
-              content: "Flower / Smoking",
-          },
-		  {
-              type: "Vaping",
-              content: "Vaping",
-          },
-          {
-              type: "Dabbing",
-              content: "Dabbing",
-          },
-          {
-              type: "Topicals",
-              content: "Topicals, Lotions, or Ointments",
-          },
-      ]
-  },
-  {
-	// Group 1
-      question: "Which type of cannabis product do you generally prefer best?",
-      answers: [
-          {
-              type: "Edibles",
-              content: "Edibles",
-              imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/05/Insomnia-Woman.jpg?resize=300,200"
-          },
-          {
-              type: "Smoking",
-              content: "Flower / Smoking",
-              imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/05/woman-anxiety-300.gif?resize=300,200"
-          },
-		  {
-              type: "Vaping",
-              content: "Vaping",
-              imageSrc: "https://i0.wp.com/extroverting.com/wp-content/uploads/sites/3/2017/06/TinaFey-Self-HighFive.gif?resize=300,200"
-          },
-          {
-              type: "Dabbing",
-              content: "Dabbing",
-              imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/04/Muscles-Back-Shoulders-Illustration.jpg?resize=300,200"
-          },
-          {
-              type: "Topicals",
-              content: "Topicals, Lotions, or Ointments",
-              imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/04/Muscles-Back-Shoulders-Illustration.jpg?resize=300,200"
-          },
-      ]
-  },
+    {
+        // Game-wide values
+        intro: "What is this in my browser?",
+        scoreLabel: "Score",
+        relatedURL0: "https://blog.mozilla.org/firefox/switch-chrome-firefox-just-minutes/",
+        relatedURLLabel0: "The latest technology, speed and security all ready to roll by default",
+        relatedURL1: "https://www.mozilla.org/en-US/firefox/switch/",
+        relatedURLLabel1: "Switching to Firefox is fast, easy and risk-free",
+        relatedURL2: "https://support.mozilla.org/en-US/kb/switching-chrome-firefox",
+        relatedURLLabel2: "Firefox imports your bookmarks, autofills, passwords and preferences",
+        relatedURL3: "",
+        relatedURLLabel3: "",
+        // Group 1
+        question: "What is this?",
+        imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2018/03/Mozilla-Lightbeam-OneSite.gif?crop=0,0,80,80&h=250",
+        answers: [
+            {
+                type: { mozilla: 1, Courtney: 0, Edie: 0 },
+                content: "Web Cookies and Trackers from visiting just ONE site",
+                imageSrc: ""
+            },
+            {
+                type: { funny: 1, other: 0, Edie: 0 },
+                content: "That's Laser Floyd, man!",
+                imageSrc: ""
+            },
+            {
+                type: { switch: 1, Courtney: 0, Edie: 0 },
+                content: "Is that cruft sites add when I'm surfing?",
+                imageSrc: ""
+            },
+        ]
+    },
+    {
+        question: "Know What this is?",
+        imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2018/03/Mozilla-Chrome-Cookies_Scroll-4secs.gif?crop=0,0,100,50",
+        answers: [
+            {
+                type: { funny: 1, other: 0, Edie: 0 },
+                content: "The worst To Do list, EVER",
+                imageSrc: ""
+            },
+            {
+                type: { mozilla: 1, Courtney: 0, Edie: 0 },
+                content: "That's the list of Cookies and Trackers I've collected",
+                imageSrc: ""
+            },
+            {
+                type: { switch: 1, Courtney: 0, Edie: 0 },
+                content: "Wait. What? I've never gone to ANY of those sites!",
+                imageSrc: ""
+            },
+        ]
+    },
+    {
+        question: "Know What this is?",
+        imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2018/03/FF-Private_Session-Purple_Mask.png?crop=0,22,100,55",
+        answers: [
+            {
+                type: { mozilla: 1, Courtney: 0, Edie: 0 },
+                content: "That's how I know I'm browsing Privately",
+                imageSrc: ""
+            },
+            {
+                type: { switch: 1, Courtney: 0, Edie: 0 },
+                content: "Would this help me manage my personal Data?",
+                imageSrc: ""
+            },
+            {
+                type: { funny: 1, other: 0, Edie: 0 },
+                content: "Some new kind of kink? What's the address?",
+                imageSrc: ""
+            },
+        ]
+    },
 ];
 
 export default quizQuestions;
