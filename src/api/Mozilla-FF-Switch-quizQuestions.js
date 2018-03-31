@@ -2,6 +2,7 @@ var quizQuestions = [
     {
         // Game-wide values
         intro: "What is this in my browser?",
+        appHeaderLogo: "http://meanbusiness.com/wp-content/uploads/2018/03/Firefox_logo-only_RGB-32x32.png", // 180330 - not yet in IQ
         scoreLabel: "Score",
         relatedURL0: "https://blog.mozilla.org/firefox/switch-chrome-firefox-just-minutes/",
         relatedURLLabel0: "The latest technology, speed and security all ready to roll by default",
@@ -9,15 +10,15 @@ var quizQuestions = [
         relatedURLLabel1: "Switching to Firefox is fast, easy and risk-free",
         relatedURL2: "https://support.mozilla.org/en-US/kb/switching-chrome-firefox",
         relatedURLLabel2: "Firefox imports your bookmarks, autofills, passwords and preferences",
-        relatedURL3: "",
-        relatedURLLabel3: "",
+        relatedURL3: "https://www.mozilla.org/en-US/privacy/",
+        relatedURLLabel3: "Read about how important tour privacy is to Mozilla (that's us)",
         // Group 1
         question: "What is this?",
         imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2018/03/Mozilla-Lightbeam-OneSite.gif?crop=0,0,80,80&h=250",
         answers: [
             {
                 type: { mozilla: 1, Courtney: 0, Edie: 0 },
-                content: "Web Cookies and Trackers from visiting just ONE site",
+                content: "Mozilla Lightbeam showing me Web Cookies and Trackers from visiting just ONE site",
                 imageSrc: ""
             },
             {

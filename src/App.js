@@ -230,7 +230,8 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h4>{quizQuestions[0].intro}</h4>
+          <h4>{quizQuestions[0].intro}<br />
+          <img src={quizQuestions[0].appHeaderLogo} alt='Mozilla Firefox' title='Mozilla Firefox' /> </h4>
         </div>
         {this.state.result ? this.renderResult() : this.renderQuiz()}
       </div>

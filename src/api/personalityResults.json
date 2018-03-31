@@ -49,8 +49,8 @@
     },
     "funny": {
         "bio": "We’ve made switching browsers easy, fast and risk-free. And with Firefox, you’re getting the latest internet technology, stability and security, all in context with your stuff—bookmarks, autofills, passwords, preferences, accounts.",
-        "strains": "You can use Firefox and still have Chrome. Chrome won’t change on your machine one bit. <p /> Get <a href='https://www.mozilla.org/firefox/new/?utm_source=GamePath&utm_campaign=firefox_frontier&utm_medium=referralFirefox' target='_blank'><strong>Firefox</strong></a>. Take Control.",
-        "successImg": "https://meanbusiness.com/wp-content/uploads/2018/03/Firefox_logo-wordmark-horiz-1.png",
+        "strains": "Get <a href='https://www.mozilla.org/firefox/new/?utm_source=GamePath&utm_campaign=firefox_frontier&utm_medium=referralFirefox' target='_blank'><strong>Firefox</strong></a>. Take Control.<p /> You can use Firefox and still have Chrome. Chrome won’t change on your machine one bit.",
+        "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2018/03/Firefox_logo-wordmark-horiz-1.png?w=280",
         "sponsorImg": "http://meanbusiness.com/wp-content/uploads/2018/03/Firefox-Fast-300x250.png",
         "sponsorURL": "https://www.mozilla.org/en-US/firefox/switch/",
         "sponsorTagline": "Switching to Firefox is easy and risk-free! "
@@ -58,7 +58,7 @@
     "mozilla": {
         "bio": "We made Firefox for you to use however you choose. We also made it to support and foster the kind of internet you want to see, with technology, speed and security all ready to roll by default.",
         "strains": "You can use Firefox and still have Chrome. Chrome won’t change on your machine one bit. <p /> Get <a href='https://www.mozilla.org/firefox/new/?utm_source=GamePath&utm_campaign=firefox_frontier&utm_medium=referralFirefox' target='_blank'><strong>Firefox</strong></a>. Take Control.",
-        "successImg": "https://meanbusiness.com/wp-content/uploads/2018/03/Firefox_logo-wordmark-horiz-1.png",
+        "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2018/03/Firefox_logo-wordmark-horiz-1.png?w=280",
         "sponsorImg": "http://meanbusiness.com/wp-content/uploads/2018/03/Firefox-DoingGood-300x250.png",
         "sponsorURL": "https://www.mozilla.org/en-US/firefox/switch/",
         "sponsorTagline": "Switching to Firefox is easy and risk-free! "
@@ -66,7 +66,7 @@
     "switch": {
         "bio": "Firefox can automatically move bookmarks, passwords, history and other preferences from Chrome without deleting it or interfering with any of its settings. Give it a try.",
         "strains": "You can use Firefox and still have Chrome. Chrome won’t change on your machine one bit. <p /> Get <a href='https://www.mozilla.org/firefox/new/?utm_source=GamePath&utm_campaign=firefox_frontier&utm_medium=referralFirefox' target='_blank'><strong>Firefox</strong></a>. Take Control.",
-        "successImg": "https://meanbusiness.com/wp-content/uploads/2018/03/Firefox_logo-wordmark-horiz-1.png",
+        "successImg": "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2018/03/Firefox_logo-wordmark-horiz-1.png?w=280",
         "sponsorImg": "http://meanbusiness.com/wp-content/uploads/2018/03/Firefox-Choose_Independent-300x250.jpg",
         "sponsorURL": "https://www.mozilla.org/en-US/firefox/switch/",
         "sponsorTagline": "Switching to Firefox is easy and risk-free!"
