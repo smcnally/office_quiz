@@ -1,7 +1,7 @@
 var quizQuestions = [
   {
    // Game-wide values
-  intro: "Getting Well more than High" , 
+  intro: "Getting Well <br>more than High" , 
   scoreLabel: "suggested retail partner" , 
   relatedURL0: "" , 
   relatedURLLabel0: "" ,
@@ -27,16 +27,16 @@ var quizQuestions = [
               content: "Anxiousness",
               imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/05/woman-anxiety-300.gif?resize=300,200"
           },
-		  {
-              type: "Sativa",
-              content: "[None of These, Thank Heavens!]",
-              imageSrc: "https://i0.wp.com/extroverting.com/wp-content/uploads/sites/3/2017/06/TinaFey-Self-HighFive.gif?resize=300,200"
-          },
           {
               type: "GreenMountain",
               content: "Neck, Back, or Joint pain",
               imageSrc: "https://i0.wp.com/meanbusiness.com/wp-content/uploads/2017/04/Muscles-Back-Shoulders-Illustration.jpg?resize=300,200"
           },
+          {
+            type: "Sativa",
+            content: "[None of These, Thank Heavens!]",
+            imageSrc: "https://i0.wp.com/extroverting.com/wp-content/uploads/sites/3/2017/06/TinaFey-Self-HighFive.gif?resize=300,200"
+        },
       ]
   },
   {

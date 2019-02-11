@@ -158,7 +158,7 @@ ul {
 }
 .question span {
   grid-column-start: 1;
-  padding: 0.5rem .75rem .5rem .75rem;
+  padding: 0.5rem .5rem .75rem .75rem;
 }
 .question span.nextInstructions {
   /* 'System Msgs' share the same style and include result-sponsor, questionCount, span.nextInstructions */
@@ -188,7 +188,7 @@ ul {
   background-color: #98d0a0;
   vertical-align: middle;
   min-height: 3.5em;
-  margin: 3px;
+  margin: 1px;
 }
 .nextButton:hover, .nextButton:focus {
   color: #45d6ff;
